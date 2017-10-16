@@ -1,4 +1,4 @@
-ackage br.com.caelum.argentum.grafico;
+ckage br.com.caelum.argentum.grafico;
 
 import org.primefaces.model.chart.ChartModel;
 import org.primefaces.model.chart.LineChartModel;
